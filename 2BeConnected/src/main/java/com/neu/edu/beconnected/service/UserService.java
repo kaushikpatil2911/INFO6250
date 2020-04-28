@@ -34,8 +34,6 @@ public interface UserService {
      * When user account is blocked an exception will be thrown by this method.
      * @param loginName
      * @param password
-     * @return 
-     * @throws in.ezeon.capp.exception.UserBlockedException When user account is  blocked.
      */
     public User login(String loginName, String password) throws UserException;
     
