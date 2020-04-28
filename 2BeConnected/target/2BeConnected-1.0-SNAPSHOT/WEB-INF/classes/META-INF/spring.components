@@ -1,0 +1,11 @@
+com.neu.edu.beconnected.config.SpringRootConfig=org.springframework.stereotype.Component
+com.neu.edu.beconnected.config.SpringWebConfig=org.springframework.stereotype.Component
+com.neu.edu.beconnected.controller.ContactController=org.springframework.stereotype.Component
+com.neu.edu.beconnected.controller.EmailController=org.springframework.stereotype.Component
+com.neu.edu.beconnected.controller.PDFController=org.springframework.stereotype.Component
+com.neu.edu.beconnected.controller.TestController=org.springframework.stereotype.Component
+com.neu.edu.beconnected.controller.UserController=org.springframework.stereotype.Component
+com.neu.edu.beconnected.dao.ContactDAOImpl=org.springframework.stereotype.Component
+com.neu.edu.beconnected.dao.UserDAOImpl=org.springframework.stereotype.Component
+com.neu.edu.beconnected.service.ContactServiceImpl=org.springframework.stereotype.Component
+com.neu.edu.beconnected.service.UserServiceImpl=org.springframework.stereotype.Component
